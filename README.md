@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThanAid
 - 👀 I’m interested in Machine Learning, Data Science and coding
-- 🌱 I’m currently studying MsC Data Science & Machine Learning
+- 🌱 I’m currently studying MSc Data Science & Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/thanos-aidinis-589950175/
 
 <!---

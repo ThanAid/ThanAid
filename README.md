@@ -17,7 +17,7 @@
 ---
 
 💡 **Fun fact:**  
-  I enjoy listening/learning music, and exploring AI use cases in music too 🧩.
+  I enjoy listening/studying music, and exploring AI use cases in music too 🧩.
 
 Thanks for stopping by! Feel free to connect with me! 😎
 

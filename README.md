@@ -1,7 +1,4 @@
-<h1 align="center">
-    <img src="pics/cat-pirate.webp" alt="MasterHead" width="600" height="300" />
-</h1>
-
+![MasterHead](pics/cat-pirate.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanos+Aidinis!;" />
